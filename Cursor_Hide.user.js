@@ -4,8 +4,9 @@
 // @license      MIT
 // @version      1.0
 // @description  Hides mouse pointer after 2 seconds of inactivity when the Pornhub video player is in fullscreen and controls are hidden.
-// @author       You
+// @author       danmaclann
 // @match        *://*.pornhub.com/view_video.php?viewkey=*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=pornhub.com
 // @grant        none
 // ==/UserScript==
 
