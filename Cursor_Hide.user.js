@@ -2,7 +2,7 @@
 // @name         Pornhub Auto-Hide Cursor for Fullscreen Video Player
 // @namespace    https://github.com/danmaclann
 // @license      MIT
-// @version      1.0
+// @version      1.1
 // @description  Hides mouse pointer after 2 seconds of inactivity when the Pornhub video player is in fullscreen and controls are hidden.
 // @author       danmaclann
 // @match        *://*.pornhub.com/view_video.php?viewkey=*
