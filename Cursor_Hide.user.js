@@ -29,9 +29,9 @@
         const player = document.querySelector('.playerFlvContainer');
 
         // Check if the player exists and is currently in the requested state
-        // 'mgp_fullscreen' and 'mgp_hideControls' indicate the target state
+        // The site now relies on the 'fullscreen' class instead of 'mgp_fullscreen'
         if (player &&
-            player.classList.contains('mgp_fullscreen') &&
+            player.classList.contains('fullscreen') &&
             player.classList.contains('mgp_hideControls')) {
             document.body.classList.add('force-hide-cursor');
         }
